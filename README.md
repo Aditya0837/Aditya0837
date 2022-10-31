@@ -1,3 +1,4 @@
+![logo](https://github.com/Aditya0837/Aditya0837/blob/main/final.gif)
 <h1 align="center">Hi 👋, I'm Aditya Samantaray (Mr.Engineer)</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
